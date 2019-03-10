@@ -40,4 +40,13 @@ public class PostsBean {
     public void setUser(UserBean user) {
         this.user = user;
     }
+
+    @Override
+    public String toString() {
+        return "PostsBean{" +
+                "id=" + id +
+                ", post='" + post + '\'' +
+                ", user=" + user +
+                '}';
+    }
 }

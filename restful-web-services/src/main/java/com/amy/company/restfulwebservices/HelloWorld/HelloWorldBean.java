@@ -15,11 +15,10 @@ public class HelloWorldBean {
         return stringVar;
     }
 
-    //
-    /*@Override
+    @Override
     public String toString() {
         return "HelloWorldBean{" +
                 "stringVar='" + stringVar + '\'' +
                 '}';
-    }*/
+    }
 }

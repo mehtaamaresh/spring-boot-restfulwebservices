@@ -1,0 +1,10 @@
+insert into CLIENT_BEAN values (1011,'Information Technology','Quest Global',2,'Servicing and Consulting firm');
+insert into CLIENT_BEAN values (1012,'Software Engineer','Alfa',1,'Employee of Wipro');
+insert into CLIENT_BEAN values (1013,'Information Technology','Syntel',2,'Servicing and Consulting firm');
+insert into CLIENT_BEAN values (1014,'QA Engineer','Amy',1,'Employee of TCS');
+insert into CLIENT_BEAN values (1015,'Information Technology','Quest Global',2,'Servicing and Consulting firm');
+insert into CLIENT_BEAN values (1016,'IT Manager','John',1,'Business Owner');
+insert into CLIENT_BEAN values (1017,'Information Technology','Accenture',2,'Servicing and Consulting firm');
+insert into CLIENT_BEAN values (1018,'Information Technology','Amazon',2,'Servicing and Consulting firm');
+insert into CLIENT_BEAN values (1019,'IT BA ','Sandy',1,'Employee of Google');
+insert into CLIENT_BEAN values (1020,'Information Technology','Intuit',2,'Servicing and Consulting firm');
